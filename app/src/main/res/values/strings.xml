@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">STEINER</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_location_data_provided">No location data provided</string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="subsribed">Subcrived</string>
+    <string name="not_subsribed">not</string>
+
+    <string name="facebook_app_id">1226134417811069</string>
+    <string name="fb_login_protocol_scheme">fb1226134417811069</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3154311324989962/8880180263</string>
+
+
+</resources>

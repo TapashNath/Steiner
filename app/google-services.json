@@ -1,0 +1,101 @@
+{
+  "project_info": {
+    "project_number": "1071670302889",
+    "project_id": "steiner-designer-app",
+    "storage_bucket": "steiner-designer-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071670302889:android:2051658162ba7e333531b8",
+        "android_client_info": {
+          "package_name": "com.steiner.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071670302889-5g7n44tsfe44njho1mtu4co18vmu2mj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steiner.admin",
+            "certificate_hash": "2b93474f2a22e2911a3a04d168326474eebe7dd2"
+          }
+        },
+        {
+          "client_id": "1071670302889-iip3oh92ol88mp8vkdkv77u2cc45kfk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVij9_wDJfJbCfv-RL5CQKt3hDCax2-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071670302889-iip3oh92ol88mp8vkdkv77u2cc45kfk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1071670302889:android:905ac6c4475e60753531b8",
+        "android_client_info": {
+          "package_name": "com.steiner.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1071670302889-h9o51i3lkpg04g35kh2hhdmm5fpadeg5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steiner.app",
+            "certificate_hash": "2b93474f2a22e2911a3a04d168326474eebe7dd2"
+          }
+        },
+        {
+          "client_id": "1071670302889-hr9cci5d649ulvotc279a4e5gnrl654e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steiner.app",
+            "certificate_hash": "b0969c89295f5a0acdcf16caee57b910e7f04a7e"
+          }
+        },
+        {
+          "client_id": "1071670302889-n1b35im4u2i74pvsp5vs950ot69dd9mp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.steiner.app",
+            "certificate_hash": "b7a09b507b573338cc924d7f44ec735b8ecd7921"
+          }
+        },
+        {
+          "client_id": "1071670302889-iip3oh92ol88mp8vkdkv77u2cc45kfk7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXVij9_wDJfJbCfv-RL5CQKt3hDCax2-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1071670302889-iip3oh92ol88mp8vkdkv77u2cc45kfk7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-3154311324989962~2916233687"
+    }
+  ],
+  "configuration_version": "1"
+}

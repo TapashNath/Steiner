@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="appColorLight">#CBB26A</color>
+    <color name="appColor">#D0AC42</color>
+    <color name="appColorDark">#C19000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ColorRed">#FF0000</color>
+    <color name="ColorGray">#A7A7A7</color>
+    <color name="appBackground">#312E51</color>
+
+    <color name="sender_layout">#D8D8D8</color>
+    <color name="receiver_layout">#06975C</color>
+    <color name="dark_transparent">#24000000</color>
+    <color name="text_color">#575656</color>
+    <color name="ColorGreen">#1EC900</color>
+</resources>
